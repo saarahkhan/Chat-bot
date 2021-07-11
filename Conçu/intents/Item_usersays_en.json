@@ -1,0 +1,53 @@
+[
+  {
+    "id": "031d778b-5c64-4368-875d-1575ec37ae4e",
+    "data": [
+      {
+        "text": "Chocolate banoffee pie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04a8b673-f736-404b-a2fb-da1f8e4d6fc4",
+    "data": [
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " forest trifles.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fbc6c92-a63c-4c92-af72-b2e32668c767",
+    "data": [
+      {
+        "text": "Apple",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " crumble dessert cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
